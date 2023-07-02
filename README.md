@@ -18,8 +18,6 @@ I'm a dedicated and passionate data analyst specializing in providing valuable i
 ---
 
 ### 🧰 Languages and Tools
-
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -30,5 +28,15 @@ I'm a dedicated and passionate data analyst specializing in providing valuable i
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br/>
-  
+
+---
+
+### 🎓 Certifications
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github.com/LawWeiKen/LawWeiKen/assets/124473303/cedff1a7-bed2-40a3-a0d6-e55830689a5d" width="33%" align="middle">
+    <img src="https://github.com/LawWeiKen/LawWeiKen/assets/124473303/d5164c39-6cb3-42ca-b128-39b54ee0f00b" width="33%" align="middle">
+    <img src="https://github.com/LawWeiKen/LawWeiKen/assets/124473303/46962314-60f5-4191-aae0-40c9a25c9edb" width="33%" align="middle">
+</div>
+
 # 
